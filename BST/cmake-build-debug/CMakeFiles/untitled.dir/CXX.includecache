@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+I:/untitled/BTree.cpp
+BTree.h
+I:/untitled/BTree.h
+
+I:/untitled/BTree.h
+list
+-
+Node.h
+I:/untitled/Node.h
+
+I:/untitled/Node.h
+
+I:/untitled/main.cpp
+iostream
+-
+BTree.h
+I:/untitled/BTree.h
+
